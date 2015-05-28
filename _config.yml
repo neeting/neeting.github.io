@@ -1,0 +1,27 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+exclude:			["vendor", "Gemfile", "Gemfile.lock"]
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            neeting<br>now
+tagline:          'A Jekyll theme'
+description:      '進捗だめです>_<'
+url:              http://neeting.github.io
+baseurl:          /
+
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/neeting/neeting.github.io.git
